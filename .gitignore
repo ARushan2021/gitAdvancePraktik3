@@ -1,0 +1,9 @@
+*.jar
+/build/
+**/application-local.properties
+/.idea_copy/
+/.idea/
+
+!.idea_copy/workspace.xml
+!module2.jar
+/gitAdvancePraktik1.iml
